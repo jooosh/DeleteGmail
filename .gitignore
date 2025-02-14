@@ -128,3 +128,14 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# credentials
+credentials.json
+token.json
+
+# emails
+email_archive/
+
+# Package locks
+pnpm-lock.yaml
+yarn.lock
